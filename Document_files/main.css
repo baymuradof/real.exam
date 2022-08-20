@@ -1,0 +1,33 @@
+@font-face {
+  font-family: exo;
+  src: url(./Exo2-Bold.otf);
+}
+@font-face {
+  font-family: pt;
+  src: url(./pt-sans.caption.ttf);
+}
+@font-face {
+  font-family: ptbold;
+  src: url(./pt-sans.caption-bold.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.banner-title {
+  font-family: exo;
+  width: 610px;
+  font-size: 52px;
+  line-height: 125%;
+  color: #363738;
+}
+
+.banner-info {
+  font-style: pt;
+  font-size: 16px;
+  line-height: 150%;
+  width: 525px;
+  color: #6B6B6C;
+}/*# sourceMappingURL=main.css.map */
